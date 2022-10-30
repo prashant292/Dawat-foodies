@@ -5,4 +5,4 @@
 
 • It contains a home, about, services, menu, gallery, contact and a footer. 
 
-Visit Website : https://alakhdeepsingh.github.io/Dawat/  or   https://restaurantdawat.netlify.app/
+Visit Website : https://dawat-foodies.netlify.app/
